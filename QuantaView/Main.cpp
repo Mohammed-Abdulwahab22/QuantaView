@@ -6,6 +6,8 @@
 
 //vertex shader source code 
 //This code is compiled on the GPU
+//GLSL (OpenGL Shading Language)
+//Shaders are small programs that run on the GPU (Graphics Processing Unit) and are responsible for rendering visuals.
 const char* vertexShaderSource = "#version 330 core\n"
 "layout(location = 0) in vec3 aPos;\n"
 "void main()\n"
