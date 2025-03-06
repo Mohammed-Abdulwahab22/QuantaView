@@ -96,7 +96,6 @@ int main()
 		glClear(GL_COLOR_BUFFER_BIT);
 		shaderProgram.Activate();
 		VAO1.Bind();
-		//glDrawArrays(GL_TRIANGLES, 0, 3);
 		glDrawElements(GL_TRIANGLES, 9, GL_UNSIGNED_INT, 0);
 		glfwSwapBuffers(window);
 
