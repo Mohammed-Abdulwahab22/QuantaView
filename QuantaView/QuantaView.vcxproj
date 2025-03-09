@@ -169,6 +169,7 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="C:\Users\IDEAPAD\Downloads\Icon_Bird_512x512.png" />
+    <Image Include="C:\Users\IDEAPAD\Downloads\Icon_Pinguin_2_512x512.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

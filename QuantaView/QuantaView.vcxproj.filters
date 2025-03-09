@@ -72,6 +72,9 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <Image Include="C:\Users\IDEAPAD\Downloads\Icon_Pinguin_2_512x512.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
     <Image Include="C:\Users\IDEAPAD\Downloads\Icon_Bird_512x512.png">
       <Filter>Resource Files\Textures</Filter>
     </Image>
