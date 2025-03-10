@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Projects\\QuantaView\\QuantaView\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{690FC723-A714-4BAB-9465-910F2719568B}|QuantaView.vcxproj|D:\\Projects\\QuantaView\\QuantaView\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{690FC723-A714-4BAB-9465-910F2719568B}|QuantaView.vcxproj|solutionrelative:Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FC723-A714-4BAB-9465-910F2719568B}|QuantaView.vcxproj|D:\\Projects\\QuantaView\\QuantaView\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{690FC723-A714-4BAB-9465-910F2719568B}|QuantaView.vcxproj|solutionrelative:Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{690FC723-A714-4BAB-9465-910F2719568B}|QuantaView.vcxproj|D:\\Projects\\QuantaView\\QuantaView\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{690FC723-A714-4BAB-9465-910F2719568B}|QuantaView.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690FC723-A714-4BAB-9465-910F2719568B}|QuantaView.vcxproj|D:\\Projects\\QuantaView\\QuantaView\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{690FC723-A714-4BAB-9465-910F2719568B}|QuantaView.vcxproj|solutionrelative:Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{690FC723-A714-4BAB-9465-910F2719568B}|QuantaView.vcxproj|D:\\Projects\\QuantaView\\QuantaView\\default.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{690FC723-A714-4BAB-9465-910F2719568B}|QuantaView.vcxproj|solutionrelative:default.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FC723-A714-4BAB-9465-910F2719568B}|QuantaView.vcxproj|D:\\Projects\\QuantaView\\QuantaView\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{690FC723-A714-4BAB-9465-910F2719568B}|QuantaView.vcxproj|solutionrelative:Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "default.vert",
+              "DocumentMoniker": "D:\\Projects\\QuantaView\\QuantaView\\default.vert",
+              "RelativeDocumentMoniker": "default.vert",
+              "ToolTip": "D:\\Projects\\QuantaView\\QuantaView\\default.vert",
+              "RelativeToolTip": "default.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-09T12:41:08.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Texture.cpp",
               "DocumentMoniker": "D:\\Projects\\QuantaView\\QuantaView\\Texture.cpp",
               "RelativeDocumentMoniker": "Texture.cpp",
@@ -34,31 +55,43 @@
               "RelativeToolTip": "Texture.cpp",
               "ViewState": "AgIAABsAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-09T13:01:22.51Z",
+              "WhenOpened": "2025-03-09T13:01:22.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "D:\\Projects\\QuantaView\\QuantaView\\Camera.cpp",
+              "RelativeDocumentMoniker": "Camera.cpp",
+              "ToolTip": "D:\\Projects\\QuantaView\\QuantaView\\Camera.cpp",
+              "RelativeToolTip": "Camera.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T13:12:53.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Camera.h",
+              "DocumentMoniker": "D:\\Projects\\QuantaView\\QuantaView\\Camera.h",
+              "RelativeDocumentMoniker": "Camera.h",
+              "ToolTip": "D:\\Projects\\QuantaView\\QuantaView\\Camera.h",
+              "RelativeToolTip": "Camera.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-10T13:07:00.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "default.vert",
-              "DocumentMoniker": "D:\\Projects\\QuantaView\\QuantaView\\default.vert",
-              "RelativeDocumentMoniker": "default.vert",
-              "ToolTip": "D:\\Projects\\QuantaView\\QuantaView\\default.vert",
-              "RelativeToolTip": "default.vert",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-09T12:41:08.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Main.cpp",
               "DocumentMoniker": "D:\\Projects\\QuantaView\\QuantaView\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "D:\\Projects\\QuantaView\\QuantaView\\Main.cpp*",
-              "RelativeToolTip": "Main.cpp*",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAQwHwAAAASAAAAAAAAAA==",
+              "ToolTip": "D:\\Projects\\QuantaView\\QuantaView\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-05T10:17:12.698Z",
               "EditorCaption": ""
